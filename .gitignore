@@ -1,0 +1,69 @@
+# =========================
+# VS Code
+# =========================
+.vscode/
+*.code-workspace
+
+# =========================
+# Compiled binaries
+# =========================
+*.exe
+*.out
+*.o
+*.obj
+*.bin
+*.class
+
+# Common compiled program names
+a.out
+main
+solution
+test
+
+# =========================
+# C/C++ build artifacts
+# =========================
+*.d
+*.dep
+*.dSYM/
+*.gch
+*.pch
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+cmake-build-*/
+
+# =========================
+# Debug / runtime logs
+# =========================
+*.log
+*.tmp
+*.swp
+*.swo
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# =========================
+# Input/Output files (optional for CP)
+# Keep if you don't want to track sample runs
+# =========================
+input.txt
+output.txt
+*.in
+*.out.txt
+
+# =========================
+# Online judge / hackerrank extras
+# =========================
+*.zip
+*.tar
+*.tar.gz
